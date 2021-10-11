@@ -1,0 +1,2 @@
+# like
+Kanal guruh uchun
