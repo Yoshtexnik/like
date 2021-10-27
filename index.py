@@ -1,5 +1,5 @@
 from aiogram import Bot, Dispatcher, executor, types
-API_TOKEN = 'Tokeniz'
+API_TOKEN = '851600929:AAG79NCn2lEPCtXa5Z5ezYc9ORuv2ZnnB-k'
 import time
 
 bot = Bot(token=API_TOKEN)
